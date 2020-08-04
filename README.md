@@ -1,5 +1,5 @@
 ## Yolov4_object_counting_demo
-* This project will present how to upload detection and counting function to website.
+* This project will present how to upload detection and counting car to website.
 ## Environment
 * cuda (choose version by you os and tensorflow version)
 * cudnn (choose version by you os and tensorflow version)
