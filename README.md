@@ -18,6 +18,7 @@
 * Second, download yolov4 darknet
 * change Makefile
 * python darknet_video_stream.py
+* It also can download IP cam App to personal cell phone and get streaming frames from the cell phone
 ## Reference
 * Install yolov4
   * https://medium.com/@yanweiliu/training-coco-object-detection-with-yolo-v4-f11bece3feb6
